@@ -1,0 +1,9 @@
+package machinbank.com;
+
+public class DepositSlot {
+
+	public boolean isEnvelopeReceived(){
+		return true;
+	}
+	
+}
